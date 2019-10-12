@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\bin\Debug\OOPBesic.exe.config
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\bin\Debug\OOPBesic.exe
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\bin\Debug\OOPBesic.pdb
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\obj\Debug\OOPBesic.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\obj\Debug\OOPBesic.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\obj\Debug\OOPBesic.exe
+C:\Users\Web App Develop .Net\source\repos\OOPBesic\OOPBesic\obj\Debug\OOPBesic.pdb
